@@ -6,7 +6,7 @@
 - 🎓 Graduado em ANALISE E DESENVOLVIMENTO DE SISTEMAS na <a href="https://www.univates.br/" target="_blank">UNIVATES</a>.
 - 🎓 Formado em Desenvolvimento WEB FULL STACK na <a href="https://www.growdev.com.br/" target="_blank">GROWDEV</a>.
 - 💼 Trabalhando como Desenvolvedor Web Full Stack na <a href="https://loftytec.com/" target="_blank">LOFTYTEC SOFTWARES</a>.
-- 🌱 Conhecimento em: PHP, LARAVEL, VUE.JS, DOCKER, SCRUM, KAMBAN, HTML5, CSS3, JAVASCRIPT, TYPESCRIPT, NEST.JS, JAVA, REACT.JS, NODE.JS, EXPRESS, POSTGRESQL, GIT, GITHUB, BOOTSTRAP,  GENERO BDL, INFORMIX SQL.
+- 🌱 Conhecimento em: Docker, Firebase, Kafka, SCRUM, Kambam, HTML, CSS, Typescript, NestJS, JAVA, React.JS, Next.JS, NodeJS, PostgreSQL, GIT, Github, Bootstrap.
 - 🚴🐠Como hobby gosto muito de pescária e adoro pedalar.
   
 <h3>Minhas Hard-Skills</h3>
@@ -31,23 +31,15 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"></code>
 
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
-![PgAdmin](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-333333?style=flat&logo=apache-netbeans-ide&logoColor=white)
-
 **Onde me encontrar**
 
 [![Linkedin](https://img.shields.io/badge/-LinkeIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leokrindges/)](https://www.linkedin.com/in/leokrindges/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_leokrindges/)](https://www.instagram.com/_leokrindges/)
 [![Gmail Badge](https://img.shields.io/badge/-krindgesleonardo3@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krindgesleonardo3@gmail.com)](mailto:krindgesleonardo3@gmail.com?subject=)
-[![GitHub](https://img.shields.io/github/followers/leokrindges?label=GitHub&style=social)](https://github.com/Leokrindges)
+[![GitHub](https://img.shields.io/github/followers/leokrindges?label=GitHub&style=social)](https://github.com/leokrindges)
 
 <div>
-<a href="https://github.com/Leokrindges">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leokrindges&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/leokrindges">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leokrindges&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
