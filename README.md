@@ -5,7 +5,6 @@
  
 - 🎓 Graduado em ANALISE E DESENVOLVIMENTO DE SISTEMAS na <a href="https://www.univates.br/" target="_blank">UNIVATES</a>.
 - 🎓 Formado em Desenvolvimento WEB FULL STACK na <a href="https://www.growdev.com.br/" target="_blank">GROWDEV</a>.
-- 💼 Trabalhando como Desenvolvedor Web Full Stack na <a href="https://loftytec.com/" target="_blank">LOFTYTEC SOFTWARES</a>.
 - 🌱 Conhecimento em: Docker, Firebase, Kafka, SCRUM, Kambam, HTML, CSS, Typescript, NestJS, JAVA, React.JS, Next.JS, NodeJS, PostgreSQL, GIT, Github, Bootstrap.
 - 🚴🐠Como hobby gosto muito de pescária e adoro pedalar.
   
